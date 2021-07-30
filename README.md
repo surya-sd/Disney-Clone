@@ -1,4 +1,4 @@
-# INDIEGOGO Clone
+# Disney+ Clone
 
 ![build](https://img.shields.io/travis/USER/REPO.svg) ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  
 <!--- ![Product Presentation Image](public/cover.png) --> 

@@ -52,3 +52,16 @@ Disney-Hotstar--Clone
 │   │   App
 │   │   Movie
 |   |   store
+
+## Glimpse of our work!
+
+
+![Login Page](https://user-images.githubusercontent.com/77038659/127681224-ca30e141-7f2f-4926-9339-dc8d9ec182a9.png)
+
+![Home Page](https://user-images.githubusercontent.com/77038659/127681220-7bad58dd-be4c-4a00-b088-daf427cf7b2c.png)
+
+![Content Page](https://user-images.githubusercontent.com/77038659/127681190-3476fe28-8b64-468a-9acf-5a5f7d196463.png)
+
+
+
+

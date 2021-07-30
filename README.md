@@ -6,7 +6,7 @@ This is the project I did after i learned React and Redux. In this project i clo
 # Table of Contents
 
 * [Installation](#installation)
-* [Libery Used](#file-structure)
+* [Libraries Used](#libraries-Used)
 * [File Structure](#file-structure)
 
 
@@ -17,7 +17,7 @@ This is the project I did after i learned React and Redux. In this project i clo
 * Run npm start to run the app
 * app will run http://localhost:3000/
 
-## Libery used
+## Libraries used
 
 * Styled Component
 * Redux

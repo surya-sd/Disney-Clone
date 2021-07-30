@@ -52,7 +52,7 @@ Disney-Hotstar--Clone
 │   │   App
 │   │   Movie
 |   |   store
-
+```  
 ## Glimpse of our work!
 
 
